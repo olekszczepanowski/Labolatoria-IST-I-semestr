@@ -1,0 +1,3 @@
+Transakcje z karta studenta: 
+Transakcja numer: 4 kwota: 30.0 karta: KartaStudenta numer: 0 nazwisko: null
+Transakcja numer: 5 kwota: 100.0 karta: KartaStudenta numer: 1303 nazwisko: Szczepanowski
